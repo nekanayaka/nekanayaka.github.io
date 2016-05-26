@@ -12,4 +12,4 @@ bubbleShape = "circle";
 
 drawName(myName, letterColors);
 bounceName()
-bounceBubbles()
+//bounceBubbles()
